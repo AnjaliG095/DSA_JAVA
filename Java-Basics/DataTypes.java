@@ -27,3 +27,11 @@ public class DataTypes {
         System.out.println("Boolean Value: " + isJavaFun);
     }
 }
+// Byte Value: 20
+// Short Value: 2026
+// Int Value: 1000000
+// Long Value: 9876543210
+// Float Value: 85.5
+// Double Value: 3.14159265359
+// Character Value: A
+// Boolean Value: true
