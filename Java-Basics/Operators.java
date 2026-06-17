@@ -1,5 +1,5 @@
 /*
- * Operators.java
+ * Operators in java
  * Demonstrates different types of operators in Java:
  * Arithmetic, Relational, Logical, and Assignment Operators.
  */
