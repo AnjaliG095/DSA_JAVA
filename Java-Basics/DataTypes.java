@@ -25,8 +25,10 @@ public class DataTypes {
 
         System.out.println("Character Value: " + grade);
         System.out.println("Boolean Value: " + isJavaFun);
+ 
     }
 }
+//OUTput
 // Byte Value: 20
 // Short Value: 2026
 // Int Value: 1000000
