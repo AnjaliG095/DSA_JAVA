@@ -1,5 +1,4 @@
-package DSA_Java.JavaBasics ;
-// Demonstrates how to declare and use variables in Java.
+
 
 public class Variables {
     public static void main(String[] args) {

@@ -7,7 +7,7 @@
 //
 // Time Complexity: O(1)
 // Space Complexity: O(1)
-package Strings;
+package DSA_Java.Strings;
 
 public class CharAtMethod {
     public static void main(String[] args) {
