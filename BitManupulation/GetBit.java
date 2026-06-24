@@ -1,4 +1,4 @@
-package BitManupulation;
+package DSA_Java.BitManupulation;
 //Retrieves the bit value at a given position.
 public class GetBit {
     public static int getBit(int num ,int postion){

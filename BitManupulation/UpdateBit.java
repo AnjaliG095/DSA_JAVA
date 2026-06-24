@@ -1,4 +1,4 @@
-package BitManupulation;
+package DSA_Java.BitManupulation;
 
 public class UpdateBit {
     public static int updateBit(int num , int position ,int newBit){

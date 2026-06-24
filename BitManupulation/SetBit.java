@@ -1,4 +1,4 @@
-package BitManupulation;
+package DSA_Java.BitManupulation;
 //Make the bit 1 no matter 1 or 0 it was .
 public class SetBit {
     public static int  setBit(int num , int position ){

@@ -1,4 +1,4 @@
-package BitManupulation;
+package DSA_Java.BitManupulation;
 //Clears a bit at a specific position.
 public class ClearBit {
     public static int clearBit(int num ,int position){
