@@ -1,3 +1,4 @@
+package DSA_Java.Array_II;
 public class BuySellStock {
      public static int buysellstocks(int prices[]){
         int buyprice=Integer.MAX_VALUE; //+infifnity

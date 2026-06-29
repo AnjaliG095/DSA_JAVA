@@ -11,7 +11,7 @@
 //
 // Space Complexity: O(1)
 
-package Sorting;
+package DSA_Java.Sorting;
 
 public class InsertionSort {
 

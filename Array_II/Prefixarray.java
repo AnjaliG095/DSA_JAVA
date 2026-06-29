@@ -1,3 +1,4 @@
+package DSA_Java.Array_II;
 // Program: Find the Maximum Subarray Sum using the Prefix Sum technique.
 // Explanation: A prefix array stores cumulative sums, allowing each subarray sum
 // to be calculated in O(1) time instead of summing elements repeatedly.
