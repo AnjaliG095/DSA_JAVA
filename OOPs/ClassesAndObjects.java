@@ -1,4 +1,4 @@
-package OOPS;
+package DSA_Java.OOPs;
 /*
  * Demonstrates creation of a class and object.
  */
