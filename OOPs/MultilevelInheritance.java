@@ -1,6 +1,6 @@
 package DSA_Java.OOPs;
 
-public class MultilevelInheritance {
+
     class Animal {
     void eat() {
         System.out.println("Animal is eating");
@@ -29,4 +29,4 @@ public class MultilevelInheritance {
     }
 }
     
-}
+
